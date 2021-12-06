@@ -31,8 +31,8 @@ namespace PruebaConsumoAPIDLL
 
         static void post()
         {
-             string url = "https://dealke03/api/eurus/complemento_carga/";
-            //string url = "https://srvanalyt/api/eurus/model/Response";
+             //string url = "https://dealke03/api/eurus/complemento_carga/";
+            string url = "https://srvanalyt/api/eurus/model/Response";
             Dictionary<String, String> dataDictionary = new Dictionary<string, string>
             {
                 {"variable1", "52"},
@@ -45,8 +45,8 @@ namespace PruebaConsumoAPIDLL
             string data = "{\"id_modelo\":5}";
 
             Consume consume = new Consume();
-            // consume.sslVerification = false;
-            String mensaje = consume.conectar(url, "post", data);
+            consume.sslVerification = false;
+            String mensaje = consume.conectar(url, "post", dataDictionary);
             Console.WriteLine(mensaje);
         }
     }
