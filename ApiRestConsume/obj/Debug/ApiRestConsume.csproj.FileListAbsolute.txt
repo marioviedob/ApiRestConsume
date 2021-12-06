@@ -1,0 +1,7 @@
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\bin\Debug\ApiRestConsume.dll
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\bin\Debug\ApiRestConsume.pdb
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\obj\Debug\ApiRestConsume.csprojResolveAssemblyReference.cache
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\obj\Debug\ApiRestConsume.dll
+C:\Users\LOVIEDO\Documents\Visual Studio 2013\Projects\PruebaConsumoAPIDLL\ApiRestConsume\obj\Debug\ApiRestConsume.pdb

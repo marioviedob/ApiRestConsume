@@ -1,0 +1,4 @@
+C:\Users\LOVIEDO\documents\visual studio 2013\Projects\PruebaConsumoAPIDLL\ConsumoAPIRest\bin\Debug\ConsumoAPIRest.dll
+C:\Users\LOVIEDO\documents\visual studio 2013\Projects\PruebaConsumoAPIDLL\ConsumoAPIRest\bin\Debug\ConsumoAPIRest.pdb
+C:\Users\LOVIEDO\documents\visual studio 2013\Projects\PruebaConsumoAPIDLL\ConsumoAPIRest\obj\Debug\ConsumoAPIRest.dll
+C:\Users\LOVIEDO\documents\visual studio 2013\Projects\PruebaConsumoAPIDLL\ConsumoAPIRest\obj\Debug\ConsumoAPIRest.pdb
